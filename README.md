@@ -1,2 +1,2 @@
-# LGMVIP-DataScience-Task-1-Iris-Flower-Classification
-LetsGrowMore Internship - DataScience Task-1 Iris Flower Classification
+# LetsGrowMore Internship - Data Science
+## Beginner Level Task 01 - Iris Flower Classification
